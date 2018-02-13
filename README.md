@@ -1,4 +1,4 @@
-# Spring Boot and Camel using ConfigMaps and Secrets 
+# Spring Boot and Camel using ConfigMaps and Secrets (for SISPI)
 
 This quickstart demonstrates how to configure a Spring-Boot application using Openshift ConfigMaps and Secrets.
 
